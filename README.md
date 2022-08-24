@@ -21,4 +21,8 @@ Questão de prova: variável local x variável de instância
 
 System.out.println - imprime e pula linha, se não quiser pular, escrever somente System.out.print. 
 
+É possível que uma classe tenha vários métodos construtores. Ex: Criar um triângulo. Posso fazẽ-lo oferecendo os três lados ou um lado e dois ângulos. 
+
+
+
 
