@@ -1,6 +1,6 @@
 # t-cnicas-de-programa-o
 
-# Aula 17/08
+## Aula 17/08
 
 classe: Aluno
 
@@ -13,7 +13,7 @@ Atributos: caracterizam objetos. Ex: matrícula do aluno, cpf, peso, altura;
 Métodos: retornam um resultado, se comportam como funções. Pode retornar inclusive um objeto. 
 
 
-# Aula 24/08 :smiley: :fire: 
+## Aula 24/08 :smiley: :fire: 
 
 A JVM é uma espécie de encapsulamento. 
 
