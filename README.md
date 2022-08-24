@@ -1,4 +1,4 @@
-# t-cnicas-de-programa-o
+# Tecnicas de Programacao
 
 ## Aula 17/08
 
