@@ -48,3 +48,25 @@ System.out.println - imprime e pula linha, se não quiser pular, escrever soment
 2.11 - configurar o projeto heater-exercise dado anteriormente 
 
 
+## Aula 31/08 :smiley: :fire: 
+
+Exercício 3.1 - mudar o relógio para a.m./p.m. / mexer no mecanismo 
+teste: 12h a 13h / 23h59 a 12h00 a.m. 
+
+Exercício 3.2 - / mexer no resultado final 
+
+12h a 11h59 a.m. / meia noite, madrugada e dia  
+
+12h a 11h59 p.m / meio dia tarde e noite 
+
+Exercício 3.3 - 
+
+I - A expressão: (return "" + value ) converte int em string.
+
+II - sobrecarga: dois métodos de mesmo nome, mas que recebem parâmetros diferentes e fazem coisas diferentes.
+
+III - O get serve para conseguir acessar a variável value, que foi declarada como privada. Se fosse pública eu conseguiria fazer um minutes.value() == 0 que funcionaria normalmente, mas eu preciso usar o método get modificador.
+            
+IV -  Todas as variáveis de objeto são inicializadas como null. 
+
+
