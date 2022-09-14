@@ -1,6 +1,6 @@
 # Tecnicas de Programacao
 
-## Aula 17/08
+# Aula 17/08
 
 classe: Aluno
 
@@ -13,7 +13,7 @@ Atributos: caracterizam objetos. Ex: matrícula do aluno, cpf, peso, altura;
 Métodos: retornam um resultado, se comportam como funções. Pode retornar inclusive um objeto. 
 
 
-## Aula 24/08 :smiley: :fire: 
+# Aula 24/08 :smiley: :fire: 
 
 A JVM é uma espécie de encapsulamento. 
 
@@ -48,7 +48,7 @@ System.out.println - imprime e pula linha, se não quiser pular, escrever soment
 2.11 - configurar o projeto heater-exercise dado anteriormente 
 
 
-## Aula 31/08 :smiley: :fire: 
+# Aula 31/08 :smiley: :fire: 
 
 Exercício 3.1 - mudar o relógio para a.m./p.m. / mexer no mecanismo 
 teste: 12h a 13h / 23h59 a 12h00 a.m. 
@@ -69,4 +69,11 @@ III - O get serve para conseguir acessar a variável value, que foi declarada co
             
 IV -  Todas as variáveis de objeto são inicializadas como null. 
 
+
+# Aula 14/09 
+
+## Agrupamento de objetos
+
+- Coleções [ArrayList]
+- 
 
